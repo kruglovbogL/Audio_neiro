@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2c486da-2c22-4624-a1e9-fe3d53af017d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/NEIRO_SOUND_FILE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bass_guitar.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/electric_guitar.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eq_settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grafh_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph_eq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/little_barrel.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pudub_graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spectr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tarrel.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scv_data_signal.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +98,19 @@
       <option name="presentableId" value="Default" />
       <updated>1714223853007</updated>
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1714341051056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714341051056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
